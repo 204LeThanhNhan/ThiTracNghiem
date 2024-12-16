@@ -1,0 +1,10 @@
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\bin\Debug\HUTECH_AppThiTracNghiem.exe.config
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\bin\Debug\HUTECH_AppThiTracNghiem.exe
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\bin\Debug\HUTECH_AppThiTracNghiem.pdb
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\obj\Debug\HUTECH_AppThiTracNghiem.csproj.AssemblyReference.cache
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\obj\Debug\HUTECH_AppThiTracNghiem.frmDangNhap.resources
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\obj\Debug\HUTECH_AppThiTracNghiem.Properties.Resources.resources
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\obj\Debug\HUTECH_AppThiTracNghiem.csproj.GenerateResource.cache
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\obj\Debug\HUTECH_AppThiTracNghiem.csproj.CoreCompileInputs.cache
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\obj\Debug\HUTECH_AppThiTracNghiem.exe
+D:\AppThiTracNghiem\HUTECH_AppThiTracNghiem\obj\Debug\HUTECH_AppThiTracNghiem.pdb
